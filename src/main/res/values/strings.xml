@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KütüphaneYönetimSistemiApp</string>
+    <string name="kitap_ekle">Kitap Ekle</string>
+    <string name="ye_ekle">Üye Ekle</string>
+    <string name="kitaplar_listele">Kitapları Listele</string>
+    <string name="yeleri_listele">Üyeleri Listele</string>
+</resources>
