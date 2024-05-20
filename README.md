@@ -1,0 +1,2 @@
+# KutuphaneYonetimSistemiApp
+kotlin ile geliştirilmiştir.
